@@ -3,7 +3,7 @@
  * main - Print sizes
  * Return 0
 */
-main(void);
+int main(void);
 {
 	char a;
 	int b;
