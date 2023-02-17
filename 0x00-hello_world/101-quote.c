@@ -1,6 +1,12 @@
 #include <stdio.h>
+
 /**
- * main - A program that prints text
- * Return: 1 (Success)
+ * main - Entry point
+ *
+ * Return: Always 1 (Success)
  */
-gcc - v and that piece of art is useful" - Dora Korpar, 2015 - 10 - 19 -o
+int main(void)
+{
+	write("and that piece of art is useful" - Dora Korpar, 2015 - 10 - 19");
+	return (1);
+}
