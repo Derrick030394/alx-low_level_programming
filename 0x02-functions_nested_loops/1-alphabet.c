@@ -1,0 +1,14 @@
+#include "main.h"
+
+/**
+ * print_alphabet - print all alphabet is lowercase
+ */
+
+void print_alphabet(void)
+{
+	chat letter;
+
+	for (letter = 'a'; letter <= 'z'; letter++)
+		_putchar(letter);
+	_putchar('\n');
+}
